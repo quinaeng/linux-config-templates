@@ -1,5 +1,6 @@
 # linux-config-templates
 
+```
 [root@localhost ~]# rpm -qa
 libecap-1.0.1-2.module+el8.4.0+404+316a0dc5.x86_64
 crontabs-1.11-17.20190603git.el8.noarch
@@ -543,4 +544,4 @@ dhcp-libs-4.3.6-45.el8.x86_64
 libsolv-0.7.19-1.el8.x86_64
 perl-Math-Complex-1.59-420.el8.noarch
 gpgme-1.13.1-9.el8.x86_64
-
+```
