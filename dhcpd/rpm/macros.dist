@@ -1,9 +1,0 @@
-# dist macros.
-
-%rocky_ver 8
-%rocky 8
-%centos_ver 8
-%centos 8
-%rhel 8
-%dist .el8
-%el8 1
